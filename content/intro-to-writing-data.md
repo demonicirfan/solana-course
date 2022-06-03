@@ -1,4 +1,4 @@
-# Write Data To The Solana Network
+# Writing Data To The Solana Network
 
 # Lesson Objectives
 

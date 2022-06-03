@@ -1,4 +1,4 @@
-# Page, Order, and Filter Custom Account Data
+# Paging, Ordering, and Filtering Data
 
 # Lesson Objectives
 
